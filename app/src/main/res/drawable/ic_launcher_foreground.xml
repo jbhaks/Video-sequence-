@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Left Clip Frame (Sequence #1) -->
+    <path
+        android:fillColor="#8B5CF6"
+        android:pathData="M26,35 h24 c2.2,0 4,1.8 4,4 v30 c0,2.2 -1.8,4 -4,4 h-24 c-2.2,0 -4,-1.8 -4,-4 v-30 c0,-2.2 1.8,-4 4,-4 z" />
+    
+    <!-- Film Perforations Left Clip -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,37 h3 v3 h-3 z M32,37 h3 v3 h-3 z M39,37 h3 v3 h-3 z M46,37 h3 v3 h-3 z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M25,69 h3 v3 h-3 z M32,69 h3 v3 h-3 z M39,69 h3 v3 h-3 z M46,69 h3 v3 h-3 z" />
+
+    <!-- Right Clip Frame (Sequence #2) -->
+    <path
+        android:fillColor="#00E5FF"
+        android:pathData="M58,35 h24 c2.2,0 4,1.8 4,4 v30 c0,2.2 -1.8,4 -4,4 h-24 c-2.2,0 -4,-1.8 -4,-4 v-30 c0,-2.2 1.8,-4 4,-4 z" />
+
+    <!-- Film Perforations Right Clip -->
+    <path
+        android:fillColor="#0B0E14"
+        android:pathData="M61,37 h3 v3 h-3 z M68,37 h3 v3 h-3 z M75,37 h3 v3 h-3 z M82,37 h3 v3 h-3 z" />
+    <path
+        android:fillColor="#0B0E14"
+        android:pathData="M61,69 h3 v3 h-3 z M68,69 h3 v3 h-3 z M75,69 h3 v3 h-3 z M82,69 h3 v3 h-3 z" />
+
+    <!-- Center Bridge Splice Ribbon -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M51,51 h6 v6 h-6 z" />
+
+    <!-- Centered Studio Play / Merge Triangle -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M48,45 L64,54 L48,63 Z" />
+
+</vector>

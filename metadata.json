@@ -1,0 +1,6 @@
+{
+  "name": "SequenceCut",
+  "description": "Sequence-wise high-definition video merger with lossless quality export, clip reordering, and in-app preview.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
